@@ -18,3 +18,5 @@ Tujuannya adalah untuk menyediakan alat interaktif untuk analisis dan peramalan 
 - Rachmawati Tefaaulia
 - Oki Ramadhan Pramono
 - Septiani Amalia Wulandari
+
+_© 2025 Siti Fadilah Nurkhotimah. All rights reserved. Dokumen ini disusun untuk kepentingan portofolio akademik._
